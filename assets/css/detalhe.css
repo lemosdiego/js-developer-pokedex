@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+section{
+    align-content: center;
+}
+
+ol{
+    list-style: none;
+}
+li{
+    height: 250px;
+    width: 250px;
+    border: solid 1px black;
+}
